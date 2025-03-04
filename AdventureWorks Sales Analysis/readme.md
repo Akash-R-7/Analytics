@@ -17,7 +17,7 @@ AdventureWorks, a global sports equipment retailer (fictional), employs **sales 
 3️⃣ **Total Sales Breakdown** – Sales performance across **products, territories, and salespeople**.
 
 ## 🌍 Dashboard Link
-[Explore the interactive dashboard here](#)
+[Explore the interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiYzQ5ZjU1MGEtNDEwYi00NmNjLTlkNDAtZTU1ODk0YjVhNzcwIiwidCI6IjUzZmY0ZWQzLTU1MDgtNGFjMy04OTBhLTc2ZDVhN2E3NzVjMiJ9)
 
 ---
 
