@@ -22,5 +22,9 @@ Ever wondered what was trending in the developer world in 2024? This project div
 ## ✍️ More Insights? Check Out My Medium Article!
 For deeper analysis and additional findings, read my full breakdown here: [Medium Article](https://medium.com/@akashrawat7jan/how-do-you-make-sense-of-messy-survey-data-52471caafda1)
 
+## 📷 Snap of the Report
+![ss](https://github.com/user-attachments/assets/76ccdaa7-d65e-48b2-9122-17e6c69f5392)
+
 ---
+
 
