@@ -1,7 +1,7 @@
 # AdventureWorks Sales Analysis
 
 ## 📌 Project Overview
-AdventureWorks, a global sports equipment retailer (fictional), employs **sales representatives** who report to **sales managers** based on territories. The **VP of Sales** wants an interactive dashboard to track sales performance across employees, regions, and products.
+AdventureWorks, a global sports equipment retailer (fictional), employs **sales representatives** who report to **sales managers** based on territories. The **VP of Sales** wants an interactive dashboard to track sales performance across employees, regions, and products [(Dataset)](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak).
 
 ## 🎯 Goals
 - Identify **top-performing salespeople** based on total sales.
