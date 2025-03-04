@@ -17,7 +17,7 @@ Ever wondered what was trending in the developer world in 2024? This project div
 5️⃣ **Perspectives on AI** – How developers see AI impacting the industry.  
 
 ## 🌍 Dashboard Link
-[Click here to explore the interactive dashboard](https://medium.com/r/?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiYzNjNWEyNjktMGM2ZC00MDg4LTgwOTItNWFlNDE3OWIwOGE5IiwidCI6IjUzZmY0ZWQzLTU1MDgtNGFjMy04OTBhLTc2ZDVhN2E3NzVjMiJ9)
+[Click here to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNjNWEyNjktMGM2ZC00MDg4LTgwOTItNWFlNDE3OWIwOGE5IiwidCI6IjUzZmY0ZWQzLTU1MDgtNGFjMy04OTBhLTc2ZDVhN2E3NzVjMiJ9)
 
 ## ✍️ More Insights? Check Out My Medium Article!
 For deeper analysis and additional findings, read my full breakdown here: [Medium Article](https://medium.com/@akashrawat7jan/how-do-you-make-sense-of-messy-survey-data-52471caafda1)
