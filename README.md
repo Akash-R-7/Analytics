@@ -8,6 +8,9 @@ A collection of **data-driven projects** turning raw numbers into **insights tha
 ✅ **Trends, forecasts, and comparisons** that make sense.  
 ✅ **Role-based insights**—see what matters most to different stakeholders.  
 
+## 🧑‍💻 Tools and technology used
+Power Query, DAX, Power BI, Microsoft Excel
+
 ---
 
 📢 **Let’s decode data and uncover cool insights!**
