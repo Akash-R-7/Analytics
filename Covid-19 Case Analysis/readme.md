@@ -21,8 +21,5 @@ The project analyzes global **Covid-19 case trends** from **2020 to 2024** using
 ## ✍️ More Insights? Check Out My Medium Article!
 For deeper analysis and additional findings, read my full breakdown here: [Medium Article](https://medium.com/@akashrawat7jan/from-omicron-peaks-to-unreported-cases-fascinating-covid-insights-with-power-bi-5669286a8e8c)
 
-
-![ss](https://github.com/user-attachments/assets/7069a692-9516-4e9d-b5cb-1bb684ce2099)
-
 ---
 
