@@ -1,7 +1,7 @@
 # Stack Overflow Developer Survey 2024
 
 ## 📌 Project Overview
-Ever wondered what was trending in the developer world in 2024? This project dives into insights from the **Stack Overflow Developer Survey 2024**, analyzing technology trends, job roles, salaries, and how developers view AI in tech. With responses from over **65,000 developers worldwide**, this dataset provides a comprehensive look at the state of development in 2024.
+Ever wondered what was trending in the developer world in 2024? This project dives into insights from the **Stack Overflow Developer Survey 2024**, analyzing technology trends, job roles, salaries, and how developers view AI in tech. With responses from over **65,000 developers worldwide**, the [dataset](https://cdn.sanity.io/files/jo7n4k8s/production/262f04c41d99fea692e0125c342e446782233fe4.zip/stack-overflow-developer-survey-2024.zip) from Stack Overflow provides a comprehensive look at the state of development in 2024.
 
 ## 🎯 Goals
 - What were the **highest-paying developer jobs** in 2024?
