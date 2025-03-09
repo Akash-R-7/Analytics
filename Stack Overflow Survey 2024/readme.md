@@ -20,7 +20,7 @@ Ever wondered what was trending in the developer world in 2024? This project div
 [Click here to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNjNWEyNjktMGM2ZC00MDg4LTgwOTItNWFlNDE3OWIwOGE5IiwidCI6IjUzZmY0ZWQzLTU1MDgtNGFjMy04OTBhLTc2ZDVhN2E3NzVjMiJ9)
 
 ## ✍️ More Insights? Check Out My Medium Article!
-For deeper analysis and additional findings, read my full breakdown here: [Medium Article](https://medium.com/@akashrawat7jan/how-do-you-make-sense-of-messy-survey-data-52471caafda1)  
+For deeper analysis and additional findings, read my full breakdown here: [Medium Article](https://medium.com/@akashrawat7jan/stack-overflows-2024-survey-has-a-lot-to-say-here-s-what-i-found-with-power-bi-ced0d66f0f9a)  
 
 ---
 
