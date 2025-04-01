@@ -1,6 +1,5 @@
 # ICC 50-Over Championships Dashboard (Excel)
 
-🔗 **[Dashboard Link](https://1drv.ms/x/c/b1293f1ec2b7a92a/EQ9AmCL9OPBErMR2MBAGFQ4BfAfJHmjoAwO3SzsyJWouDA?e=lHjIFF)**
 ## 📌 Project Overview
 This Excel dashboard visualizes team performances across ICC 50-over championships (World Cup & Champions Trophy). It allows users to analyze batting and bowling trends over the years, compare teams, and assess performances in both preliminary and knockout stages.
 
