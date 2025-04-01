@@ -23,6 +23,9 @@ This Excel dashboard visualizes team performances across ICC 50-over championshi
    - See if teams maintain their form in knockouts or struggle under pressure.
    - Identify patterns of consistent and clutch performances.
 
+## 🔍 Preview
+![Cricket Dashboard](https://github.com/user-attachments/assets/2cc71ce0-aea0-4773-83b4-406fafc63a85)
+
 ## 📂 How to Use
 - Open the Excel dashboard and use filters/slicers to explore insights.
 - Switch between different sections for specific analyses.
