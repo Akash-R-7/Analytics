@@ -24,6 +24,6 @@ This project explores long-term coral reef trends in the **Florida Keys** using 
 
 ### 📊 Dashboard Link
 
-[Click here to explore the interactive dashboard](https://app.powerbi.com/viewr=eyJrIjoiYTkzZjViNTUtMGIzNi00ZDIzLTg5NTctYmU4YzA1MzA4ZjM2IiwidCI6IjUzZmY0ZWQzLTU1MDgtNGFjMy04OTBhLTc2ZDVhN2E3NzVjMiJ9)
+[Click here to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTkzZjViNTUtMGIzNi00ZDIzLTg5NTctYmU4YzA1MzA4ZjM2IiwidCI6IjUzZmY0ZWQzLTU1MDgtNGFjMy04OTBhLTc2ZDVhN2E3NzVjMiJ9)
 
 ![image](https://github.com/user-attachments/assets/64a7abb1-7c8a-48d9-99b5-7f795648809c)
