@@ -1,0 +1,17 @@
+Strategy Rules:
+
+For each symbol, identify the first 5-minute candle of each day.
+
+Buy Entry: If price crosses above the high of the first candle, enter a long trade.
+
+Sell Entry: If price crosses below the low of the first candle, enter a short trade.
+
+Only one buy and one sell trade is allowed per symbol per day.
+
+Apply the following conditions:
+
+Target: +0.5%
+
+Stop Loss: -0.25%
+
+Exit Time: 15:15 (if target or SL not hit)
